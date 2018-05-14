@@ -48,13 +48,13 @@
 ### 4. 安装字体<br/>
 下载字体点[这里](https://pan.baidu.com/s/1UkZgWqMfpaEyr4V9vWa46g) &emsp;密码: agsv
 <br/>
-安装字体将文件移进'>C:/windows>Font'目录下即可。
+安装字体将文件移进`>C:/windows>Font`目录下即可。
 <br/>
 
 ### 5. 加载文件<br/>
 最后一步，将本目录下的doc加载到vscode里面.<br/>
 具体操作如下：<br/>
-`> 文件 > 将文件夹加载到工作区`&emsp; 或者是 直接将文件拖到`VsCode`里面即可
+`> 文件 > 将文件夹加载到工作区` &emsp; 或者是 直接将文件拖到`VsCode`里面即可
 
 * `重要事情说三遍：Windows用户不要将路径和图片名称命名为汉字`
 * `重要事情说三遍：Windows用户不要将路径和图片名称命名为汉字`
