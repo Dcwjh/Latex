@@ -62,7 +62,7 @@
 <br/>
 ctrl+s即可编译
 
-所需要的所有文件在&ensp;[这里下载](https://pan.baidu.com/s/1pwQXA7vA_jxGatDzEBTKpA) &ensp; 密码: adnb
+所需要的所有文件在&ensp;[这里下载](https://pan.baidu.com/s/1pwQXA7vA_jxGatDzEBTKpA) &ensp; 密码: adnb <br/>
 有编译错误的请自行baidu,google都可以找到解决方法，具体编写文件的方法，本文件上方有
 由于写论文时间比较紧，所以过程比较简洁，等我有时间进行博客更新。<br/>
 [博客地址](未知待续)
