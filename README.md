@@ -42,5 +42,20 @@
 ```
 ![工作区设置](/images/工作区设置.png)
 
-3. 下载插件
+3. 下载插件 <br/>
 ![插件下载](/images/插件下载.png)
+
+4. 安装字体<br/>
+下载字体点[这里](https://pan.baidu.com/s/1UkZgWqMfpaEyr4V9vWa46g) &emsp;密码: agsv
+<br/>
+安装字体将文件移进'>C:/windows>Font'目录下即可。
+<br/>
+
+5.最后一步<br/>
+* `重要事情说三遍：Windows用户不要将路径和图片名称命名为汉字`
+* `重要事情说三遍：Windows用户不要将路径和图片名称命名为汉字`
+* `重要事情说三遍：Windows用户不要将路径和图片名称命名为汉字`
+<br/>
+ctrl+s即可编译
+
+
