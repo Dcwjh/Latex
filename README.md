@@ -2,10 +2,10 @@
 
 ## 简单介绍模板的使用<br/>
 
-1. 下载软件
+### 1. 下载软件
 * Latex:&ensp; [官网](http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe)&ensp;| 
 &ensp;[清华镜像](http://mirror.ctan.org/systems/texlive/Images/texlive2018.iso)
-2. 准备工作
+### 2. 准备工作
 工作区设置 <br/>
 `> .vscode > setting.json > 工作区设置` ：
 ```tex
@@ -42,16 +42,16 @@
 ```
 ![工作区设置](/images/工作区设置.png)
 
-3. 下载插件 <br/>
+### 3. 下载插件 <br/>
 ![插件下载](/images/插件下载.png)
 
-4. 安装字体<br/>
+### 4. 安装字体<br/>
 下载字体点[这里](https://pan.baidu.com/s/1UkZgWqMfpaEyr4V9vWa46g) &emsp;密码: agsv
 <br/>
 安装字体将文件移进'>C:/windows>Font'目录下即可。
 <br/>
 
-5.加载文件<br/>
+### 5. 加载文件<br/>
 最后一步，将本目录下的doc加载到vscode里面.<br/>
 具体操作如下：<br/>
 `> 文件 > 将文件夹加载到工作区`&emsp; 或者是 直接将文件拖到`VsCode`里面即可
@@ -62,4 +62,7 @@
 <br/>
 ctrl+s即可编译
 
-
+所需要的所有文件在&ensp;[这里下载](https://pan.baidu.com/s/1pwQXA7vA_jxGatDzEBTKpA) &ensp; 密码: adnb
+有编译错误的请自行baidu,google都可以找到解决方法，具体编写文件的方法，本文件上方有
+由于写论文时间比较紧，所以过程比较简洁，等我有时间进行博客更新。
+[博客地址](未知待续)
